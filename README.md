@@ -2,11 +2,19 @@
 =================================================
 
 ## Project Name
+Props and State
 
 ### Author: Student/Group Name
+Sara Bahrini
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [Assignement 1 - part 1](https://codesandbox.io/s/0xv68w91w0)
+* [Assignement 1 - part 2](https://codesandbox.io/s/vy7z0lx4z3)
+* [Assignement 2 - part 1]()
+* [Assignement 2 - part 1]()
+* [Assignement 3 - part 1]()
+* [Assignement 3 - part 2]()
+
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
