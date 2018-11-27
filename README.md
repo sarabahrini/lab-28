@@ -10,7 +10,7 @@ Sara Bahrini
 ### Links and Resources
 * [Assignement 1 - part 1](https://codesandbox.io/s/0xv68w91w0)
 * [Assignement 1 - part 2](https://codesandbox.io/s/vy7z0lx4z3)
-* [Assignement 2 - part 1]()
+* [Assignement 2 - part 1](https://codesandbox.io/s/ol6qr1qpq)
 * [Assignement 2 - part 1]()
 * [Assignement 3 - part 1]()
 * [Assignement 3 - part 2]()
